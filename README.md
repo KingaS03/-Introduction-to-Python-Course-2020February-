@@ -1,5 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KingaS03/-Introduction-to-Python-Course-2020February-/master)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KingaS03/-Introduction-to-Python-Course-2020February-)
+
 # Introduction to Python Course
  
 This course is based on the below book and the corresponding Jupyter notebooks of *Jake VanderPlas*. The course in its original format can be found [on Github](https://github.com/jakevdp/WhirlwindTourOfPython). I (Kinga Sipos) added Chapter *13-Plotting* to provide a first experience with plotting in Python and some extra exercises in order to enhance the interactivity of the course.
